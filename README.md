@@ -1,6 +1,11 @@
 Welcome to the Online Cassandra Developer Workshop
 ======================================================
 
+https://academy.datastax.com/certifications
+https://github.com/anjijava16/cassandra-workshop-online
+
+
+
 In this repository, you'll find everything from the online Cassandra Developer Workshop:
 - Materials used during presentations
 - Hands-on exercises

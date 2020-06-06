@@ -2,7 +2,20 @@ Welcome to the Online Cassandra Developer Workshop
 ======================================================
 
 https://academy.datastax.com/certifications
+
 https://github.com/anjijava16/cassandra-workshop-online
+
+
+https://stackoverflow.com/questions/24949676/difference-between-partition-key-composite-key-and-clustering-key-in-cassandra
+
+
+PYTHON
+https://github.com/KillrVideo/killrvideo-python/blob/master/killrvideo/user_management/user_management_service.py
+
+
+java
+
+https://github.com/KillrVideo/killrvideo-java
 
 
 

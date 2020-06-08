@@ -5,6 +5,9 @@ https://academy.datastax.com/certifications
 
 https://github.com/anjijava16/cassandra-workshop-online
 
+https://github.com/OlegGorj/Cassandra-Developer-Certification-study-notes
+
+
 
 https://stackoverflow.com/questions/24949676/difference-between-partition-key-composite-key-and-clustering-key-in-cassandra
 

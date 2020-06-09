@@ -7,6 +7,10 @@ https://github.com/anjijava16/cassandra-workshop-online
 
 https://github.com/OlegGorj/Cassandra-Developer-Certification-study-notes
 
+# Killervideo (keySpace)
+ 
+ https://github.com/KillrVideo/killrvideo-cdm/tree/master/data
+
 
 
 https://stackoverflow.com/questions/24949676/difference-between-partition-key-composite-key-and-clustering-key-in-cassandra

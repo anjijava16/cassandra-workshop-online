@@ -7,6 +7,10 @@ https://github.com/anjijava16/cassandra-workshop-online
 
 https://github.com/OlegGorj/Cassandra-Developer-Certification-study-notes
 
+# KillerVideo (data)
+  
+  https://github.com/KillrVideo/killrvideo-cdm
+
 # Killervideo (keySpace)
  
  https://github.com/KillrVideo/killrvideo-cdm/tree/master/data

@@ -7,6 +7,11 @@ https://github.com/anjijava16/cassandra-workshop-online
 
 https://github.com/OlegGorj/Cassandra-Developer-Certification-study-notes
 
+# IMP Cassandra Repo
+
+https://github.com/Anant/awesome-cassandra
+
+
 # KillerVideo (data)
   
   https://github.com/KillrVideo/killrvideo-cdm
